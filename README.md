@@ -50,7 +50,7 @@ The script includes debug lines to visualize the car's movement and direction in
 
 ## Demo 
 ### Starting Position
-<img src="./images/start.PNG"/>
+<img src="./images/starting.PNG"/>
 
 ### Drifting / Skid Marks Screenshot
-<img src="./images/demo.PNG"/>
+<img src="./images/demo drift.PNG"/>
