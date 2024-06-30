@@ -1,6 +1,8 @@
 # Car Controller - Drift Game & Personal C# Exploration Project
 ## Introduction
-This project is a personal endeavor to explore and enhance my understanding of the C# programming language, particularly within the context of game development using Unity and Object Oriented Programming. The primary goal is to create a simple car controller that simulates basic car physics, including acceleration, steering, drag, and traction.
+This project is a personal endeavor to explore and enhance my understanding of the C# programming language, particularly within the context of game development using Unity and Object Oriented Programming. The primary goal is to create a simple car controller that simulates basic car physics, including acceleration, steering, drag, and traction. I followed an online tutorial by **One Minute Games** as a framework and overall understanding of Unity functionality, tweaking values to suit personal uses. 
+**Tutorial: [How To Make Drifting Game In 5 Steps | Beginner Tutorial In Unity](https://www.youtube.com/watch?v=BSybcKPQCnc&ab_channel=OneMinuteGames)**
+
 ## Project Overview
 
 The project consists of a Unity script that controls a car's movement. Key features include:
