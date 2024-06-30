@@ -49,4 +49,4 @@ The script includes debug lines to visualize the car's movement and direction in
 - **Blue Line**: Represents the car's forward direction.
 
 ## Demo 
-<img src="https://github.com/seank1m/drift_game_dev/tree/master/images"/>
+<img src="https://github.com/seank1m/drift_game_dev/tree/master/images/start.PNG"/>
