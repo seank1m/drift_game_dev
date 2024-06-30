@@ -49,4 +49,8 @@ The script includes debug lines to visualize the car's movement and direction in
 - **Blue Line**: Represents the car's forward direction.
 
 ## Demo 
-[!Starting Position] (img src="./images/start.PNG"/)
+### Starting Position
+<img src="./images/start.PNG"/>
+
+### Drifting / Skid Marks Screenshot
+<img src="./images/demo.PNG"/>
